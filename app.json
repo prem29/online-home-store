@@ -1,0 +1,16 @@
+{
+  "name": "online-home-store",
+  "description": "It is online shopping cart app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
